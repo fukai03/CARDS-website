@@ -1,16 +1,17 @@
 ---
+title: button
 nav:
   title: Components
   path: /components
 ---
 
-## Foo
+## Foo1
 
 Demo:
 
 ```tsx
 import React from 'react';
-import { Foo } from 'cards-lib';
+import { Foo } from 'cards';
 
 export default () => <Foo title="First Demo" />;
 ```
